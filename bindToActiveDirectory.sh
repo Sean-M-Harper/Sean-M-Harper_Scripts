@@ -1,6 +1,6 @@
 #!/bin/bash
-ADPASS=l3opard
-ADMINPASS=drumgin
+ADPASS=*******
+ADMINPASS=*******
 HOSTNAME=$(scutil --get LocalHostName)
 JH=/Library/Application\ Support/JAMF/bin/jamfHelper.app/Contents/MacOS/jamfHelper
 #serialNumber=$(system_profiler | grep "Serial Number (system)" | cut -d : -f2)
