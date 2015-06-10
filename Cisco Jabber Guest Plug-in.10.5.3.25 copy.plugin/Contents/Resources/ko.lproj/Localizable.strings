@@ -1,0 +1,10 @@
+/* 
+  localized.strings
+  Cisco JabberGuest Plugin - Korean
+*/
+
+"Deny" = "거부";
+"Allow" = "허용";
+"Always Allow" = "항상 허용";
+"wants to access your microphone and camera." = "마이크와 카메라에 액세스하려고 합니다.";
+"The current site wants to access your microphone and camera." = "현재 사이트에서 사용자 마이크와 카메라에 액세스하려고 합니다.";

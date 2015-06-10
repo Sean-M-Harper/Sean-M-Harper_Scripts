@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "chip.plugin";
+NSHumanReadableCopyright = "Copyright 2013 Cisco Systems, Inc.";

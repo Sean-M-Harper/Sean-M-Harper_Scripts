@@ -1,0 +1,10 @@
+/* 
+  localized.strings
+  Cisco JabberGuest Plugin - Hebrew
+*/
+
+"Deny" = "דחה";
+"Allow" = "אשר";
+"Always Allow" = "אשר תמיד";
+"wants to access your microphone and camera." = "מבקש גישה למיקרופון ולמצלמה שלך.";
+"The current site wants to access your microphone and camera." = "האתר הנוכחי מבקש גישה למיקרופון ולמצלמה שלך.";

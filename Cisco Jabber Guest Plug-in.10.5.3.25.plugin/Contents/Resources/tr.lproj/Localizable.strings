@@ -1,0 +1,10 @@
+/* 
+  localized.strings
+  Cisco JabberGuest Plugin - Turkish
+*/
+
+"Deny" = "Reddet";
+"Allow" = "İzin Ver";
+"Always Allow" = "Her Zaman İzin Ver";
+"wants to access your microphone and camera." = "mikrofon ve kameranıza erişmek istiyor.";
+"The current site wants to access your microphone and camera." = "Mevcut site mikrofon ve kameranıza erişmek istiyor.";

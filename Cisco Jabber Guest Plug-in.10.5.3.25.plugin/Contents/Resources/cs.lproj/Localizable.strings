@@ -1,0 +1,10 @@
+/* 
+  localized.strings
+  Cisco JabberGuest Plugin - Czech
+*/
+
+"Deny" = "Odmítnout";
+"Allow" = "Povolit";
+"Always Allow" = "Vždy povolit";
+"wants to access your microphone and camera." = "požaduje přístup k mikrofonu a fotoaparátu."; 
+"The current site wants to access your microphone and camera." = "Aktuální server požaduje přístup k mikrofonu a fotoaparátu.";

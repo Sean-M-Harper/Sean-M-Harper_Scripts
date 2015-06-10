@@ -1,0 +1,10 @@
+/* 
+  localized.strings
+  Cisco JabberGuest Plugin - Greek
+*/
+
+"Deny" = "Άρνηση";
+"Allow" = "Αποδοχή";
+"Always Allow" = "Πάντα αποδοχή";
+"wants to access your microphone and camera." = "ζητά πρόσβαση στο μικρόφωνο και την κάμερά σας.";
+"The current site wants to access your microphone and camera." = "Η τρέχουσα τοποθεσία ζητά πρόσβαση στο μικρόφωνο και την κάμερά σας.";

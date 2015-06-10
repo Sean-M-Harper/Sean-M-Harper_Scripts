@@ -1,0 +1,10 @@
+/* 
+  localized.strings
+  Cisco JabberGuest Plugin - Italian
+*/
+
+"Deny" = "Rifiuta";
+"Allow" = "Consenti";
+"Always Allow" = "Consenti sempre";
+"wants to access your microphone and camera." = "desidera accedere al microfono e alla fotocamera dell'utente.";
+"The current site wants to access your microphone and camera." = "Il sito corrente desidera accedere al microfono e alla fotocamera dell'utente.";

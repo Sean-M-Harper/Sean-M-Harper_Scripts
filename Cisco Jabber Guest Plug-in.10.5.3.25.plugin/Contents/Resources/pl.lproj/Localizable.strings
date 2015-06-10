@@ -1,0 +1,10 @@
+/* 
+  localized.strings
+  Cisco JabberGuest Plugin - Polish
+*/
+
+"Deny" = "Odmów";
+"Allow" = "Zezwól";
+"Always Allow" = "Zawsze zezwalaj";
+"wants to access your microphone and camera." = "chce uzyskać dostęp do mikrofonu i kamery.";
+"The current site wants to access your microphone and camera." = "Bieżąca witryna chce uzyskać dostęp do mikrofonu i kamery.";

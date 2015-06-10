@@ -1,0 +1,10 @@
+/* 
+  localized.strings
+  Cisco JabberGuest Plugin - Norwegian
+*/
+
+"Deny" = "Nekt";
+"Allow" = "Tillat";
+"Always Allow" = "Tillat alltid";
+"wants to access your microphone and camera." = "vil ha tilgang til mikrofonen og kameraet ditt.";
+"The current site wants to access your microphone and camera." = "Gjeldende side vil ha tilgang til mikrofonen og kameraet ditt.";

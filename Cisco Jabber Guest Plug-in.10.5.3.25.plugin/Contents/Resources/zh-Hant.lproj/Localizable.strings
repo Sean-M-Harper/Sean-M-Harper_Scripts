@@ -1,0 +1,10 @@
+/* 
+  localized.strings
+  Cisco JabberGuest Plugin - Taiwanese
+*/
+
+"Deny" = "拒絕";
+"Allow" = "允許";
+"Always Allow" = "始終允許";
+"wants to access your microphone and camera." = "想存取您的麥克風和相機。";
+"The current site wants to access your microphone and camera." = "目前的網站想存取您的麥克風和相機。";
